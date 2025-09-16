@@ -1,1 +1,2 @@
-python is a programming language
+python is a programming language 
+Python is good
